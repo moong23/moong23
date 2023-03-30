@@ -30,10 +30,13 @@
 <a><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=ffffff"/></a>
 </p>
+  <br/>
 
 
 ![Moong's GitHub stats](https://github-readme-stats.vercel.app/api?username=moong23&show_icons=true&theme=material-palenight)
-</div>
 
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoong23&count_bg=%23D594FF&title_bg=%23A9A9A9&icon=&icon_color=%23DBA7FF&title=hits&edge_flat=false)](https://github.com/moong23/moong23)
+  
+  </div>
