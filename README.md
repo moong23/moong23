@@ -22,7 +22,7 @@
 
   
 
-### Preferred tools
+### 🔨 Preferred tools 🔨
 
 <a><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
