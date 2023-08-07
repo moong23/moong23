@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=ffffff"/>&nbsp  
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/>&nbsp
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff"/>&nbsp
+  <img src='https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=ffffff'/>&nbsp
 </p>
 
 ### 📝 Preferred Tools 📝
