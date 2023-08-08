@@ -8,16 +8,16 @@
 ### Front-end
 
 <p>
-  <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Html5-e34f26?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=ffffff"/>&nbsp  
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-squaree&logo=TypeScript&logoColor=ffffff"/>&nbsp  
-  <img src="https://img.shields.io/badge/jquery-0769ad?style=flat-square&logo=jquery&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Jquery-0769ad?style=flat-square&logo=jquery&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>&nbsp  
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/>&nbsp  
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>&nbsp  
   <br/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledComponents&logoColor=ffffff"/>&nbsp 
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindCss&logoColor=white"/>&nbsp 
 </p>
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=ffffff"/>&nbsp  
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/>&nbsp
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff"/>&nbsp
-  <img src='https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=ffffff'/>&nbsp
+  <img src='https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=ffffff'/>&nbsp
 </p>
 
 ### 📝 Preferred Tools 📝
