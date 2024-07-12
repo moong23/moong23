@@ -6,7 +6,7 @@
 <h2 align="start">📚 Technology Stack 📚 </h2>
 
 ### Front-end
-
+#### FE stack
 <p>
   <img src="https://img.shields.io/badge/Html5-e34f26?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=ffffff"/>&nbsp  
@@ -15,17 +15,33 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>&nbsp  
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/>&nbsp  
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>&nbsp  
-  <br/>
+</p>
+
+#### Styling
+<p>
   <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledComponents&logoColor=ffffff"/>&nbsp 
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindCss&logoColor=white"/>&nbsp 
 </p>
 
+#### Geosptial Visualization
+<p>
+  
+</p>
+
+
 ### Back-end
+#### BE stack
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/>&nbsp  
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/>&nbsp    
+</p>
+
+#### Database
+<p>
+  <img src="https://img.shields.io/badge/mongodb-#47A248?style=flat-square&logo=Django&logoColor=ffffff"/>&nbsp
+  
 </p>
 
 ### Programming Language
