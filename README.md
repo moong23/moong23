@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindCss&logoColor=white"/>&nbsp 
 </p>
 
+#### State Management
+<p>
+  <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=sass&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
+</p>
+
 #### Geosptial Visualization
 <p>
   
