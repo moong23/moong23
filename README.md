@@ -13,6 +13,11 @@
  <a href="https://www.npmjs.com/package/a11y-contrast-color">
     <img src="https://img.shields.io/npm/v/a11y-contrast-color.svg?style=flat-square" alt="version" />
   </a>
+  <a href="https://npmtrends.com/a11y-contrast-color">
+    <img src="https://img.shields.io/npm/dt/a11y-contrast-color" alt="downloads" />
+  </a>
+
+  
 </h3>
 
 
